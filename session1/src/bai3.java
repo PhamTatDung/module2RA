@@ -143,12 +143,12 @@ public class bai3 {
                 System.out.print(hund + " hundred ");
             }
             else {
-              if (((num / 10) % 10)==1){
-                  System.out.print(hund+" hundred "+tens);
-              }
-              else {
-                  System.out.print(hund + " hundred " +tens+ " " +ones);
-              }
+                if (((num / 10) % 10)==1){
+                    System.out.print(hund+" hundred "+tens);
+                }
+                else {
+                    System.out.print(hund + " hundred " +tens+ " " +ones);
+                }
 
             }
         }

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="714d1458-6a15-4106-8602-8510307e203e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/session1/src/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session1/src/bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session1/src/bai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session1/src/bai4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session1/src/bai5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session1/src/bai6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session1/src/bai7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session2/src/bai1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md2_session1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md2_session1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md2_session1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md2_session1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md2_session1/md2_session1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md2_session1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md2_session1/src/bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md2_session1/src/bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md2_session1/src/bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md2_session1/src/bai4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md2_session1/src/bai5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md2_session1/src/bai6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md2_session1/src/bai7.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2WqEDQy1Fncy8o85yHeTvRn7wBF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "corretto-1.8",
+    "last_opened_file_path": "C:/Users/Pham Tat Dung/Desktop/module2RA/session1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/Pham Tat Dung/Desktop/module2RA/session2/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="module2RA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="module2RA" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="714d1458-6a15-4106-8602-8510307e203e" name="Changes" comment="" />
+      <created>1697451589557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697451589557</updated>
+      <workItem from="1697451590635" duration="1187000" />
+      <workItem from="1697452810133" duration="20000" />
+      <workItem from="1697452844268" duration="1671000" />
+      <workItem from="1697456340433" duration="589000" />
+      <workItem from="1697456942748" duration="23000" />
+      <workItem from="1697456978331" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
