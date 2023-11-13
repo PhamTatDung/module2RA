@@ -1,9 +1,5 @@
-package baitap2.Implement;
+package baitap2.service;
 
 public interface Colorable {
-    Shape[] find
-    void howToColor(Shape){
-
-        System.out.println("Vẽ Màu");
-    }
+    void howToColor();
 }
